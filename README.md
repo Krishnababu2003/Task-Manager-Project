@@ -80,7 +80,7 @@ http://localhost:8080
 ## 📸 Screenshots
 
 ### 🏠 Task List Page
-![Task List]((screenshots/task-list.png)
+![Task List](screenshots/task-list.png)
 
 ### ➕ Add Task
 ![Add Task](screenshots/add-task.png)
