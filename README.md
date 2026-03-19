@@ -1,6 +1,6 @@
-# 🚀 Task Manager Full Stack Application
+# Task Manager Full Stack Application
 
-## 📌 Project Description
+## Project Description
 This is a Full Stack Task Manager application built using:
 - Spring Boot (Backend)
 - MySQL (Database)
@@ -10,40 +10,39 @@ The application allows users to perform CRUD operations (Create, Read, Update, D
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔹 Backend
+### Backend
 - Java
 - Spring Boot
 - Spring Data JPA
 - MySQL
 
-### 🔹 Frontend
+### Frontend
 - HTML
 - CSS
 - JavaScript (Fetch API)
 
 ---
 
-## ✨ Features
+## Features
 
-- ➕ Add Task
-- 📋 View Tasks
-- ✏️ Update Task
-- 🗑️ Delete Task
-- 🌐 Multi-page UI with Navigation Bar
-- 🎨 Responsive and clean UI
+- Add Task
+- View Tasks
+- Update Task
+- Delete Task
+-
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 task-manager/
 ├── backend/ (Spring Boot Application)
 └── frontend/ (HTML, CSS, JS)
 
 ---
 
-## ⚙️ Backend Setup
+## Backend Setup
 
 1. Open project in VS Code  
 2. Configure MySQL in `application.properties`:
@@ -59,14 +58,14 @@ http://localhost:8080
 
 ---
 
-## 🌐 Frontend Setup
+## Frontend Setup
 
 1. Open `frontend` folder  
 2. Run using Live Server or open `index.html`
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 | Method | Endpoint        | Description     |
 |--------|---------------|-----------------|
@@ -77,29 +76,29 @@ http://localhost:8080
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🏠 Task List Page
+### Task List Page
 ![Task List](screenshots/task-list.png)
 
-### ➕ Add Task
+### Add Task
 ![Add Task](screenshots/add-task.png)
 
-### ✏️ Update Task
+### Update Task
 ![Update Task](screenshots/update-task.png)
 
-### 🗑️ Delete Task
+### Delete Task
 ![Delete Task](screenshots/delete-task.png)
 
-### 🔗 API Testing (Postman)
+### API Testing (Postman)
 ![Postman](screenshots/postman-api.png)
 
-## 👨‍💻 Author
+## Author
 
 - Sakalabhakthula Krishna Babu
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates a complete full-stack application with frontend-backend integration using REST APIs.
